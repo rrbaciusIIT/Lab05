@@ -1,0 +1,21 @@
+#planetTable, th, td {
+    border: 1px solid white;
+    background: #2B2D42;
+    color: white;
+    font-size: medium;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 4px;
+    width: 180px;
+    height: 84px;
+}
+
+td {
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+}
+
+body{
+    background-color: #8D99AE;
+
+}
